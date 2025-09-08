@@ -58,10 +58,10 @@ penguins-airflow-final-redis-1               redis:7-alpine                     
 ```
 
 📸 **Evidencia – Airflow corriendo con el DAG**  
-![Airflow UI](f8c15c5f-420d-4924-bd4c-13cf45d634a7.png)  
+![Airflow UI](airflow.png)  
 
 📸 **Evidencia – FastAPI con predicciones**  
-![FastAPI UI](9dcbc2ad-4e81-43ca-85fa-86f57b39d5ca.png)  
+![FastAPI UI](fastapi.png)  
 
 ---
 
